@@ -9,6 +9,7 @@ This is a Kotlin Multiplatform project targeting Android, iOS, Web and Desktop (
 <details>
 <summary>Build and Run Android Application</summary>
 
+---
 To build and run the development version of the Android app, use the run configuration from the run widget in your IDE’s toolbar or build it directly from the terminal:
 - on macOS/Linux
   ```shell
@@ -23,6 +24,7 @@ To build and run the development version of the Android app, use the run configu
 <details>
 <summary>Build and Run Desktop (JVM) Application</summary>
 
+---
 To build and run the development version of the desktop app, use the run configuration from the run widget
 in your IDE’s toolbar or run it directly from the terminal:
 - on macOS/Linux
@@ -38,6 +40,7 @@ in your IDE’s toolbar or run it directly from the terminal:
 <details>
 <summary>Build and Run Web Application</summary>
 
+---
 To build and run the development version of the web app, use the run configuration from the run widget
 in your IDE's toolbar or run it directly from the terminal:
 - for the Wasm target (faster, modern browsers):
@@ -63,8 +66,8 @@ in your IDE's toolbar or run it directly from the terminal:
 <details>
 <summary>Build and Run iOS Application</summary>
 
-To build and run the development version of the iOS app, use the run configuration from the run widget
-in your IDE’s toolbar or open the [/iosApp](./iosApp) directory in Xcode and run it from there.
+---
+To build and run the development version of the iOS app, use the run configuration from the run widget in your IDE’s toolbar or open the [/iosApp](./iosApp) directory in Xcode and run it from there.
 </details>
 
 ---
