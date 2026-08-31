@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   width="360"
+   height="540"
+   id="svg20298"
+   sodipodi:docname="english_pattern_back.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.5909903"
+     inkscape:cx="184.16203"
+     inkscape:cy="200.18979"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3026" />
+  <defs
+     id="defs20300">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#WireFence"
+       preserveAspectRatio="xMidYMid"
+       id="pattern14"
+       patternTransform="matrix(0.29767521,0,0,0.2960883,1.3948745,10.201293)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="52"
+       height="61.14"
+       id="WireFence"
+       patternTransform="scale(0.3,0.3)"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#ffffff"
+       inkscape:label="Wire Fence"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         id="rect9"
+         style="stroke:none"
+         d="m 31.437499,0 7.257813,7.2578126 c -0.879538,1.3312883 -0.879117,3.0161644 10e-7,4.3476564 L 26.072266,24.228516 14,36.300782 0,22.302735 v 2.828124 l 12.640625,12.640625 c -0.89873,1.34129 -0.898729,3.115742 0,4.457031 L 0,54.86914 v 2.828126 l 14,-14 17.443359,17.443359 2.828125,10e-7 -18.912109,-18.91211 c 0.898055,-1.340861 0.898042,-3.116186 0,-4.457031 L 27.488281,25.642578 40,13.128906 l 12.000001,12 L 52,22.300781 41.302734,11.605469 c 0.879644,-1.331587 0.879713,-3.0161029 0,-4.3476564 L 48.560547,0 H 45.732422 L 40,5.732422 34.267578,0 Z M 52,54.869141 l -6.271484,6.271484 2.828124,0 L 52,57.697265 Z" />
+    </pattern>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath55">
+      <path
+         id="path55"
+         style="stroke-width:0.1;stroke-linecap:square;paint-order:markers fill stroke;stop-color:#000000"
+         d="m 1736.6147,-745.57287 h 1589.4765 v 72.46715 H 1736.6147 Z" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17935-89" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17939-8" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17935-8-7" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17939-6-0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17935-9-8-2-5-09-4-0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17935-9-8-2-5-09-4-1-8" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17935-9-8-2-5-08" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17935-9-8-2-5-0-8" />
+  </defs>
+  <metadata
+     id="metadata20303">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-151.42857,-248.08929)"
+     id="layer1">
+    <g
+       transform="translate(151.42857,-264.27291)"
+       id="g3026">
+      <rect
+         width="359"
+         height="539"
+         rx="29.944447"
+         ry="29.944447"
+         x="0.5"
+         y="512.86218"
+         id="rect6472-82"
+         style="fill:#800000;stroke:#000000;stroke-width:0.99999976"
+         inkscape:label="rect" />
+      <rect
+         width="340.16345"
+         height="519.44397"
+         rx="28.373274"
+         ry="28.857998"
+         x="9.9182739"
+         y="522.6402"
+         id="rect6472-82-2"
+         style="fill:url(#pattern14);stroke:#ffffff;stroke-width:0.95559;stroke-opacity:1"
+         inkscape:label="rect" />
+    </g>
+  </g>
+</svg>

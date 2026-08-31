@@ -7,31 +7,30 @@ enum class CardSuit(val displayName: String){
     SPADES("Spades"),
 }
 
-enum class CardIcon(val displayIcon: String){
-    CLUBS("\u2663"), // ♣️
-    DIAMONDS("\u2666"), // ♦️
-    HEARTS("\u2665"), // ♥️
-    SPADES("\u2660"), // ♠️
+enum class CardRank(
+    val displayName: String,
+    val power: Int
+){
+    TWO("2", 2),
+    THREE("3", 3),
+    FOUR("4", 4),
+    FIVE("5", 5),
+    SIX("6", 6),
+    SEVEN("7", 7),
+    EIGHT("8", 8),
+    NINE("9", 9),
+    TEN("10", 10),
+    JACK("Jack", 11),
+    QUEEN("Queen", 12),
+    KING("King", 13),
+    ACE("Ace", 14)
 }
 
-enum class CardRank(val displayName: String){
-    TWO("2"),
-    THREE("3"),
-    FOUR("4"),
-    FIVE("5"),
-    SIX("6"),
-    SEVEN("7"),
-    EIGHT("8"),
-    NINE("9"),
-    TEN("10"),
-    JACK("Jack"),
-    QUEEN("Queen"),
-    KING("King"),
-    ACE("Ace")
-}
-
-class Card(val rank: CardRank, val suit: CardSuit, val icon: CardIcon) {
+class Card(
+    val rank: CardRank,
+    val suit: CardSuit
+) {
     override fun toString(): String {
-        return "${icon.displayIcon} | ${rank.displayName} of ${suit.displayName} | ${icon.displayIcon}"
+        return "${rank.displayName} of ${suit.displayName}"
     }
 }
